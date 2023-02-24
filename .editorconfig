@@ -1,0 +1,10 @@
+[*]
+root = true
+indent_size = 4
+indent_style = space
+detect_indentation = true
+max_line_length = 120
+
+[Makefile]
+indent_style = tab
+detect_indentation = false
